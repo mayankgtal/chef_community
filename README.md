@@ -1,2 +1,2 @@
 # chef_community
-Holds all chef community cookbooks
+Holds all chef community cookbooks. 
